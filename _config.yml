@@ -1,0 +1,28 @@
+name: davidbitton
+favicon: null
+layout_spectrum: 0.03231784072704613
+typography_spectrum: 0.37698612711392343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6311048620846123
+  lightness: 0.2596480518113822
+  saturation: 0.6426495856139809
+  rhythmicContrast: 0.017776019871234894
+purpose: []
